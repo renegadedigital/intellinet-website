@@ -1,0 +1,11 @@
+*.swp
+yarn-error.log
+node_modules/
+*.lock
+docs
+coverage/
+resources/*.key
+docker/.confighash
+docker/documents
+.netlify/
+build/
